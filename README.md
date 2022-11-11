@@ -1,5 +1,5 @@
 # Airbnb_data
-# Análisis de datos integral (descriptivo, estadístico, geo data, time series y machine learning)
+Análisis de datos integral (descriptivo, estadístico, geo data, time series y machine learning)
 
 En este repo se presenta un proyecto más integral. Con datos públicos de Airbnb (http://insideairbnb.com/get-the-data/ dataset de Madrid) hago un análisis descriptivo y estadístico, geoespacial, de series de tiempo, algo de nlp y ML para predecir el precio de una publicación. De manera adicional, dejo el código para correr parte del proyecto con Streamlit, una herramienta de python para hacer dashboards con pros y contras. El principal beneficio de Streamlit es su simpleza, con poco codigo python podes levantar un tablero en el browser, el paquete se hace cargo de todo (renderizar, webserver, etc). Una de las desventajas más grandes que le veo es, cada vez que lo actualizas o tocas corre todo desde 0 de nuevo y no es particularmente rápido, de hecho el dashboard que te dejo aca tarda un buen rato en levantarse por completo.
 
